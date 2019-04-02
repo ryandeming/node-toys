@@ -1,0 +1,24 @@
+{
+  "name": "animebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "cheerio": "^1.0.0-rc.2",
+    "mysql": "^2.16.0",
+    "node-openload": "^2.2.0",
+    "node-torrent": "^0.2.2",
+    "nyaapi": "^2.0.5",
+    "puppeteer": "^1.14.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "webtorrent": "^0.103.1"
+  }
+}
